@@ -1,6 +1,9 @@
 # Entrenamiento de una RN para la clasificacion de la calidad de los vinos
 ### winequiality-red
 
+
+
+## Información de los atributos: 
 <table>
   <tr>
     <th>Variables de entrada
